@@ -1,4 +1,3 @@
-- Social Data Science enthusiast
 - MSc Data Science for Public Policy alumna at the Hertie School 
 - Reach me at gm.petrilli@proton.me
 <!---
